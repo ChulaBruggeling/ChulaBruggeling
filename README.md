@@ -1,9 +1,9 @@
 ## Hi there, I'm Chula 👋
 
 - 😄 Pronouns: She/Her
-- 🎓 Education: Bachelors in Software Engineering & Data Science (in progress)
-- 💪 Currently using Deep Learning on Medical Scans for Diagnostics, using Python and TensorFlow
-- ⚡ Fun fact: I'm an international quidditch referee and have organised multiple European championships
+- 🎓 Education: Bachelors in Software Engineering & Data Science
+- 💪 Currently working as a Data Engineer
+- ⚡ Fun fact: I'm an international quadball referee and have helped organise multiple European championships
 - 🕒 Timezone: Europe/Amsterdam (CEST)
 
 ### Languages and Tools
